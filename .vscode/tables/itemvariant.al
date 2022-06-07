@@ -54,10 +54,10 @@ table 50201 "ItemVariant"
         {
             Clustered = true;
         }
-        key(Key2; "Vendor Name")
-        {
+        // key(Key2; "Vendor Name")
+        // {
 
-        }
+        // }
 
 
     }

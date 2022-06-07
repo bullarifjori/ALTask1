@@ -34,7 +34,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page ItemVariantsPage - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3700434325 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3700434325">
-          <source>Ky artikull eshte lidhur njeher me kete variant.</source>
+          <source>Ky variant eshte lidhur njeher me nje artikull.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension ITS Code - NamedType Text001</note>
         </trans-unit>
